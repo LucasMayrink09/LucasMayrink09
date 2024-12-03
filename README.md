@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá, me chamo Lucas Mayrink! 👋
+
+Bem vindo ao meu perfil no GitHub
+
+- Como entrar em contato comigo:
+- 
 
 <!--
 **LucasMayrink09/LucasMayrink09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
