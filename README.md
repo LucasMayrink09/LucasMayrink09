@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas Mayrink Oliveira, estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Back-end.</p>
+<p align="left">Meu nome é Lucas Mayrink Oliveira, Desenvolvedor Back-End e estudante de Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
